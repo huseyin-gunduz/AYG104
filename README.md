@@ -45,7 +45,7 @@ Ders boyunca ASP.NET MVC mimarisi, yaşam döngüsü, routing sistemi, model olu
 
 ---
 
-## 📚 Haftalık Konular
+## 📚 Haftalık Konular (TODO: Düzenlenecek)
 
 | Hafta | Konu |
 |--------|------|
