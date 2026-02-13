@@ -1,7 +1,7 @@
 # 📌 MVC Yaşam Döngüsü
 
-**Ders Kodu:** AYG104  
-**Ders Türü:** Önlisans  
+**Ders Kodu:** (Eklenecek)  
+**Ders Türü:** Lisans  
 **Ders Saati:** 3+2  
 **AKTS:** 5  
 
@@ -68,6 +68,7 @@ Ders boyunca ASP.NET MVC mimarisi, yaşam döngüsü, routing sistemi, model olu
 
 ## 📂 Proje Klasör Yapısı
 
+```
 MVC-Yasam-Dongusu/
 │
 ├── Hafta01-Giris/
@@ -84,15 +85,29 @@ MVC-Yasam-Dongusu/
 ├── Hafta12-Guvenlik/
 ├── Hafta13-JavaScript/
 ├── Hafta14-Deploy/
-
+│
+└── README.md
+```
 
 Her hafta klasöründe:
+
 - Ders sunumları  
 - Örnek uygulamalar  
 - Kaynak kodlar  
 - Ödevler (varsa)  
 
 bulunmaktadır.
+
+---
+
+## 📝 Değerlendirme Sistemi
+
+| Etkinlik | Adet | Katkı (%) |
+|----------|------|-----------|
+| Küçük Sınav | 1 | 30 |
+| Ödev | 2 | 10 |
+| Ara Sınav | 1 | 50 |
+| Final | 1 | 100 |
 
 ---
 
@@ -110,3 +125,5 @@ bulunmaktadır.
 - Ders boyunca yapılan tüm örneklerin kaynak kodları paylaşılacaktır.  
 - Ders uygulamalı olarak yürütülmektedir.  
 - Öğrencilerin düzenli olarak kod yazması beklenmektedir.  
+
+---
