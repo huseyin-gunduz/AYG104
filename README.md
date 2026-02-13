@@ -100,16 +100,6 @@ bulunmaktadır.
 
 ---
 
-## 📝 Değerlendirme Sistemi
-
-| Etkinlik | Adet | Katkı (%) |
-|----------|------|-----------|
-| Küçük Sınav | 1 | 30 |
-| Ödev | 2 | 10 |
-| Ara Sınav | 1 | 50 |
-| Final | 1 | 100 |
-
----
 
 ## 🚀 Uygulamaları Çalıştırmak İçin
 
