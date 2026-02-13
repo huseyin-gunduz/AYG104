@@ -84,8 +84,7 @@ MVC-Yasam-Dongusu/
 ├── Hafta12-Guvenlik/
 ├── Hafta13-JavaScript/
 ├── Hafta14-Deploy/
-│
-└── README.md
+
 
 Her hafta klasöründe:
 - Ders sunumları  
