@@ -1,7 +1,7 @@
 # 📌 MVC Yaşam Döngüsü
 
-**Ders Kodu:** (Eklenecek)  
-**Ders Türü:** Lisans  
+**Ders Kodu:** AYG104
+**Ders Türü:** Önlisans  
 **Ders Saati:** 3+2  
 **AKTS:** 5  
 
